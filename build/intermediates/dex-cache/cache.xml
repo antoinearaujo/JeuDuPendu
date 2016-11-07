@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_bbf4be539252a0a7ec8c2aca9d91e74ba06e99c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e972b645590ac028188a2307cf91ada2ab8ccf73\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_471f9d1c1d564cc8bc1cbe6c53f23c3e72a2662b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_3b76ae3aa37cbda6f460f9a2bffd5095bd8fda79\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_88a23d92e7c386399144207493c75e5380cb32ca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0b023e52d001de3d31c2c941b4e372db86e4b0fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c099ed19c2c32f8dabd83072c83da932e2bf12fb">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0b67aae578c4f810dd27242bf259bbf003fe1a3c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_dbe14e2c3d258b28fc1d9c54147c62a82b99722d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b1a95e44a507d30d4a8d6573eeb1b18d31b25a45\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ef21962f4e3ea1b6397f220fa1a8ed7c5377a0b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_4c0292d79646a448b114cb685b1df335c87a4ace\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_a70f1caf59e9ad7ec830d9a8fa5b734046a99c52\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_82d7204d92c8e3ba4daa3e6950c41317e3be325d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_233f2e07a4a132a2254103338335c4a1fd14a532\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_ee88d867f483b6ef0383a0b3d0e604417f411e15\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_353ad020735a1ecfaca1e59705d4ee236f90bbd1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e5efe8a273ed152a0bb68b3a6a0fa86b0d10cb0e">
+        <dex dex="C:\Users\asus\AndroidStudioProjects\JeuPendu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_493cca70eca03eb428654a4065811fde9ccf44d5\classes.dex" />
+    </item>
+
+</items>
